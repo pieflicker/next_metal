@@ -1,0 +1,95 @@
+
+body {
+	background-color: #500000;
+
+
+}
+#navbar {
+	border: 3px solid black;
+	border-radius: 10px;
+	background-color: #505050;
+	width: 960px;
+	margin: 0px auto;
+	height: 150px;
+
+}
+
+#blank {
+
+
+}
+
+li {
+	color: white;
+	text-align: center;
+	list-style: none;
+	border: 2px solid black;
+	border-radius: 5px;
+	width: 110px;
+	float: left;
+	margin: 7px;
+	background-color: #5E1B1B;
+
+}
+
+#next_band {
+	height: 300px;
+	width: 960px;
+	border: 3px solid black;
+	border-radius: 10px;
+	margin: 25px auto;
+	background-color: #5E1B1B;
+
+}
+
+#name {
+	border: 1px solid white;
+	border-radius: 10px;
+	float: left;
+	width: 450px;
+	height: 145px;
+	margin: 2px, 15px, 0px, 15px ;
+
+	
+}
+
+#venue {
+	border: 1px solid white;
+	border-radius: 10px;
+	float: left;
+	width: 450px;
+	height: 145px;
+	margin: 2px, 15px, 0px, 0px;
+}
+
+#date {
+	border: 1px solid white;
+	border-radius: 10px;
+	float: left;
+	width: 450px;
+	height: 145px;
+	margin: 0px, 15px, 2px, 15px;
+}
+
+#MA {
+	border: 1px solid white;
+	border-radius: 10px;
+	float: left;
+	width: 450px;
+	height: 145px;
+	margin: 0px, 15px, 2px, 0px;
+}
+
+.wordyness {
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	
+}
+
+.search {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+
+}
